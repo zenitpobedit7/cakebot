@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Маленький",
+        "diameter": "16 см", 
+        "portions": "6-8 порций",
+        "multiplier": "1"
+    },
+    {
+        "name": "Средний",
+        "diameter": "18 см",
+        "portions": "10-12 порций", 
+        "multiplier": "1.5"
+    }
+]
